@@ -1,6 +1,6 @@
 package graduate.api.user.domain;
 
-import graduate.api.core.BaseObject;
+import graduate.api.core.domain.BaseObject;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
